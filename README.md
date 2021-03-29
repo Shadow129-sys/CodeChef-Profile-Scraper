@@ -23,7 +23,7 @@ Clone the project and install the library that are required
 git clone https://github.com/Shadow129-sys/CodeChef-Profile-Scraper.git
 pip install -r requirements.txt
 ```
-  run the main.py file
+   run the main.py file
 ```terminal
 python -u main.py
 ```
