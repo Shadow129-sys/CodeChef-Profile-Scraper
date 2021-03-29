@@ -9,7 +9,7 @@ This is a simple Web Scraping project using python, it helps the user to see det
 python install -r requirements.txt
 ```
 
-## FAQ
+## FAQ ❓
 - how to use this project?<br/>
 Clone the project and install the library that are required
 ```terminal
