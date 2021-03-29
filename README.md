@@ -1,11 +1,11 @@
 # CodeChef-Profile-Scraper
 This is a simple Web Scraping project using python, it helps the user to see details of any CodeChef profile by their username.
 
-##🔧 Requirements 
+## Requirements 🔧
 :small_blue_diamond: make sure you have python installed in your system or install it [here](https://www.python.org/downloads/)<br/>
 :small_blue_diamond: install [pip](https://pip.pypa.io/en/stable/)<br/>
 
-##☕ Understanding the code 
+## Understanding the code ☕
 I have not added too many comments as the _function_, _variable_ _names_ itself is quite __Self explanatory__, but if someone is still having problem to understand the code just try testing the code out.
 
 ## Installation 💻
