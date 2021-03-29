@@ -11,20 +11,21 @@ python install -r requirements.txt
 
 ## FAQ
 - how to use this project?<br/>
-Clone the project and install the library that are required
+Clone the project and install the library that are required<br/>
 ```terminal
 git clone https://github.com/Shadow129-sys/CodeChef-Profile-Scraper.git
 pip install -r requirements.txt
 ```
-write the usernames you want to search for in `input.txt` file
+write the usernames you want to search for in `input.txt` file<br/>
 ```text
 gennady.korotkevich
 errichto
 ```
-run the main.py file
+run the main.py file<br/>
 ```terminal
 python -u main.py
 ```
+<br/>
 take a look at the [Sample_InputOutput](https://github.com/Shadow129-sys/CodeChef-Profile-Scraper/tree/main/Sample_InputOutput) folder to get a better understanding about the input output format
 
 - what is Beautiful Soup?<br/>
