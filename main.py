@@ -5,8 +5,6 @@ import ProfileFinder as pf
 import fileinput
 
 if __name__ == '__main__':
-    #s = input('')
-    #nameList = s.split(' ')
     nameList = []
     for names in fileinput.input(files="input.txt"):
         names = names.strip()
