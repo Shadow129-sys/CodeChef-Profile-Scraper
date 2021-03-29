@@ -21,6 +21,7 @@ I have not added too many comments as the variable names and function name itsel
 Clone the project and install the library that are required
 ```terminal
 git clone https://github.com/Shadow129-sys/CodeChef-Profile-Scraper.git
+cd CodeChef-Profile-Scraper
 pip install -r requirements.txt
 ```
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;run the main.py file
