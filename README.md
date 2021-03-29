@@ -9,6 +9,13 @@ This is a simple Web Scraping project using python, it helps the user to see det
 python install -r requirements.txt
 ```
 
+## Prerequisites 🔑
+:small_blue_diamond: basic understanding of HTML tags and tag hierarchy
+:small_blue_diamond: basic coding skills in python
+
+## Understanding the code ☕
+I have not added any kind of comments as the variable names and function name itself is quite self explanatory, but if someone is still having problem to understand the code just try testing the code out
+
 ## FAQ ❓
 :beginner:  how to use this project?<br/>
 Clone the project and install the library that are required
