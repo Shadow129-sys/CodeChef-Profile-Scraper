@@ -23,11 +23,11 @@ Clone the project and install the library that are required
 git clone https://github.com/Shadow129-sys/CodeChef-Profile-Scraper.git
 pip install -r requirements.txt
 ```
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;run the main.py file
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;run the main.py file
 ```terminal
 python -u main.py
 ```
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;take a look at the [Sample_InputOutput](https://github.com/Shadow129-sys/CodeChef-Profile-Scraper/tree/main/Sample_InputOutput) folder to get a better understanding about the input output format.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;take a look at the [Sample_InputOutput](https://github.com/Shadow129-sys/CodeChef-Profile-Scraper/tree/main/Sample_InputOutput) folder to get a better understanding about the input output format.
 
 - what is Beautiful Soup?<br/>
 It's a python library for pulling data out of HTML and XML files, more about Beautiful Soup [here](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
