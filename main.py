@@ -1,6 +1,3 @@
-from bs4 import BeautifulSoup
-import requests
-from pprint import pprint
 import ProfileFinder as pf
 import fileinput
 
