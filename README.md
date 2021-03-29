@@ -14,7 +14,7 @@ python install -r requirements.txt
 :small_blue_diamond: basic coding skills in python
 
 ## Understanding the code ☕
-I have not added any kind of comments as the variable names and function name itself is quite self explanatory, but if someone is still having problem to understand the code just try testing the code out
+I have not added too many comments as the variable names and function name itself is quite self explanatory, but if someone is still having problem to understand the code just try testing the code out
 
 ## FAQ ❓
 - how to use this project?<br/>
