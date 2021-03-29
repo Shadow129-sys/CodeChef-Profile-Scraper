@@ -14,7 +14,7 @@ python install -r requirements.txt
 :small_blue_diamond: basic coding skills in python
 
 ## Understanding the code ☕
-I have not added too many comments as the _function_, _variable_ _names_ itself is quite self explanatory, but if someone is still having problem to understand the code just try testing the code out.
+I have not added too many comments as the _function_, _variable_ _names_ itself is quite __Self explanatory__, but if someone is still having problem to understand the code just try testing the code out.
 
 ## Installation 💻
 Clone the project and install the library that are required
