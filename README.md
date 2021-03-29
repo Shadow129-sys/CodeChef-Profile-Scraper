@@ -10,7 +10,7 @@ python install -r requirements.txt
 ```
 
 ## FAQ ❓
-:arrow_right_hook:  how to use this project?<br/>
+:beginner:  how to use this project?<br/>
 Clone the project and install the library that are required
 ```terminal
 git clone https://github.com/Shadow129-sys/CodeChef-Profile-Scraper.git
@@ -22,8 +22,8 @@ python -u main.py
 ```
 take a look at the [Sample_InputOutput](https://github.com/Shadow129-sys/CodeChef-Profile-Scraper/tree/main/Sample_InputOutput) folder to get a better understanding about the input output format.
 
-:arrow_right_hook:  what is Beautiful Soup?<br/>
+:beginner:  what is Beautiful Soup?<br/>
 It's a python library for pulling data out of HTML and XML files, more about Beautiful Soup [here](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
 
-:arrow_right_hook:  what is Web Scraping?<br/>
+:beginner:  what is Web Scraping?<br/>
 Web scraping is the process of using bots to extract content and data from a website.
