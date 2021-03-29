@@ -9,7 +9,7 @@ This is a simple Web Scraping project using python, it helps the user to see det
 python install -r requirements.txt
 ```
 
-## Prerequisites 🧠
+## Prerequisites
 :small_blue_diamond: basic understanding of HTML tags and tag hierarchy<br/>
 :small_blue_diamond: basic coding skills in python
 
