@@ -40,4 +40,4 @@ Web scraping is the process of using bots to extract content and data from a web
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change. Please make sure to update tests as appropriate.
 
 ## What next ❓
-I will be working on adding new features to this preject.
+I will be working on adding new features to this project.
