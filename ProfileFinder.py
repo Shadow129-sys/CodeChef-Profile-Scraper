@@ -3,11 +3,13 @@ import requests
 from pprint import pprint
 import time
 
+#To store color code for different stars
 coderDiv = ["Grey", "Green", "Blue", "Violet", "Yellow", "Orange", "Red"]
 
-
+#Searches for information in the user's profile page
 def FindProfile(username: str):
 
+    #For storing the final search result
     description = ""
 
     try:
@@ -131,11 +133,14 @@ def FindProfile(username: str):
         description = f"Username '{username}' dosen't exists\n"
 
     description += 100*"-" + '\n'
+    
+    #writes the info of the user into the output file
     f = open('output.txt', 'a')
     f.write(description)
     f.close()
 
 
+#For finding out the stars from rating of the user
 def FindStars(rating: str):
 
     rating = int(rating)
