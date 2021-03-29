@@ -9,22 +9,21 @@ This is a simple Web Scraping project using python, it helps the user to see det
 python install -r requirements.txt
 ```
 
-## Prerequisites 💻
+## Prerequisites 🧠
 :small_blue_diamond: basic understanding of HTML tags and tag hierarchy<br/>
 :small_blue_diamond: basic coding skills in python
 
 ## Understanding the code ☕
 I have not added too many comments as the variable names and function name itself is quite self explanatory, but if someone is still having problem to understand the code just try testing the code out.
 
-## Installation
+## Installation 💻
 Clone the project and install the library that are required
 ```terminal
 git clone https://github.com/Shadow129-sys/CodeChef-Profile-Scraper.git
 cd CodeChef-Profile-Scraper
 pip install -r requirements.txt
 ```
-write the usernames in `input.txt`<br/>
-run the main.py file.
+write the usernames in `input.txt` and run the main.py file in terminal.
 ```terminal
 python -u main.py
 ```
@@ -37,7 +36,7 @@ It's a python library for pulling data out of HTML and XML files, more about Bea
 - what is Web Scraping?<br/>
 Web scraping is the process of using bots to extract content and data from a website.
 
-## Contributing
+## Contributing :clipboard:
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change. Please make sure to update tests as appropriate.
 
 ## What next ❓
