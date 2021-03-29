@@ -9,15 +9,15 @@ This is a simple Web Scraping project using python, it helps the user to see det
 python install -r requirements.txt
 ```
 
-## Prerequisites 🔑
-:small_blue_diamond: basic understanding of HTML tags and tag hierarchy
+## Prerequisites 💻
+:small_blue_diamond: basic understanding of HTML tags and tag hierarchy<br/>
 :small_blue_diamond: basic coding skills in python
 
 ## Understanding the code ☕
 I have not added any kind of comments as the variable names and function name itself is quite self explanatory, but if someone is still having problem to understand the code just try testing the code out
 
 ## FAQ ❓
-:beginner:  how to use this project?<br/>
+- how to use this project?<br/>
 Clone the project and install the library that are required
 ```terminal
 git clone https://github.com/Shadow129-sys/CodeChef-Profile-Scraper.git
@@ -29,8 +29,8 @@ python -u main.py
 ```
 take a look at the [Sample_InputOutput](https://github.com/Shadow129-sys/CodeChef-Profile-Scraper/tree/main/Sample_InputOutput) folder to get a better understanding about the input output format.
 
-:beginner:  what is Beautiful Soup?<br/>
+- what is Beautiful Soup?<br/>
 It's a python library for pulling data out of HTML and XML files, more about Beautiful Soup [here](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
 
-:beginner:  what is Web Scraping?<br/>
+- what is Web Scraping?<br/>
 Web scraping is the process of using bots to extract content and data from a website.
