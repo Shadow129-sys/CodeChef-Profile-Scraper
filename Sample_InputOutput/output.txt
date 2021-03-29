@@ -1,0 +1,60 @@
+Username : gennady.korotkevich
+Country : Belarus
+State : Homiel Province
+City : Gomel
+Student/Professional : Student
+Institution : Saint Petersburg National Research University of Information Technologies, Mechanics and Optics
+Current : Red coder 7star 4193 | Heighest : Red coder 7star 4193
+Global Rank : 1 | Country Rank : 1
+Last Rated Contest : March Lunchtime 2021 Division 1
+Rating Changed : +72
+Link : https://www.codechef.com/LTIME94A
+Fully Solved : 436 | Partially Solved : 4
+Practice Problems : 15
+Most Problem Solved in Contests : 10
+Contests Code : MAY13
+Link : https://www.codechef.com/MAY13
+Contests Participated : 84
+Contest List : ['JAN10', 'JULY10', 'COOK01', 'AUG10', 'SEPT10', 'ALKH10', 'NOV10', 'COOK06', 'FEB11', 'COOK07', 'ENCODED', 'APRIL11', 'COOK09', 'MAY11', 'COOK10', 'JUNE11', 'COOK11', 'AUG11', 'COOK15', 'COOK17', 'JAN12', 'COOK18', 'COOK20', 'PRDM2012', 'APRIL12', 'COOK21', 'COOK22', 'JUNE12', 'COOK23', 'COOK25', 'COOK28', 'COOK31', 'APRIL13', 'MAY13', 'COOK45', 'COOK46', 'COOK48', 'COOK49', 'LTIME18', 'DEC14', 'MAY15', 'COOK58', 'COOK60', 'COOK61', 'LTIME45', 'COOK83', 'COOK84', 'COOK85', 'COOK86', 'COOK87', 'COOK91', 'LTIME57', 'ALKH2018', 'COOK93A', 'LTIME59A', 'LTIME60A', 'JUNE18A', 'COOK95A', 'LTIME61A', 'JULY18A', 'COOK96A', 'COOK97A', 'COOK98A', 'LTIME64A', 'LTIME67A', 'LTIME68A', 'ICMT2019', 'DRI22019', 'LTIME73A', 'COOK116A', 'COOK117A', 'COOK118A', 'LTIME87A', 'LTIME88A', 'COOK123A', 'LTIME89A', 'COOK124A', 'LTIME90A', 'COOK125A', 'LTIME91A', 'COOK126A', 'LTIME92A', 'COOK127A', 'LTIME94A']
+----------------------------------------------------------------------------------------------------
+Username : tmwilliamlin
+About Me : https://williamlin.io/
+Country : Taiwan
+State : Taiwan
+City : Taiwan
+Motto : Success is knowing when to give up
+Link : https://williamlin.io/
+Student/Professional : Student
+Institution : Taipei American School, Taipei Taiwan
+Current : Red coder 7star 2916 | Heighest : Red coder 7star 2916
+Global Rank : 10 | Country Rank : 1
+Last Rated Contest : February Cook-Off 2020 Division 1
+Rating Changed : +121
+Link : https://www.codechef.com/COOK115A
+Fully Solved : 283 | Partially Solved : 16
+Practice Problems : 129
+Most Problem Solved in Contests : 18
+Contests Code : ZCOPRAC
+Link : https://www.codechef.com/ZCOPRAC
+Contests Participated : 31
+Contest List : ['LTIME49', 'JULY17', 'ISCC2017', 'LOCJUL17', 'AUG17', 'SEPT17', 'OCT17', 'NOV17', 'IOITC181', 'LTIME61A', 'IOITC182', 'COOK96A', 'LTIME62A', 'AUG18A', 'LTIME63A', 'COOK98A', 'LTIME64A', 'LTIME65A', 'ZCOPRAC', 'LTIME66A', 'INOIPRAC', 'LTIME78A', 'DEC19A', 'COOK113A', 'LTIME79A', 'JAN20A', 'COOK114A', 'AABH2020', 'LTIME80A', 'COOK115A', 'LTIME48']
+----------------------------------------------------------------------------------------------------
+Username : errichto
+Country : Poland
+State : Mazowieckie
+City : Warszawa
+Student/Professional : Professional
+Organisation : YouTube
+Current : Red coder 7star 2607 | Heighest : Red coder 7star 2607
+Global Rank : 76 | Country Rank : 2
+Last Rated Contest : November Lunchtime 2020 Division 1
+Rating Changed : +40
+Link : https://www.codechef.com/LTIME90A
+Fully Solved : 83 | Partially Solved : 10
+Practice Problems : 11
+Most Problem Solved in Contests : 9
+Contests Code : AUG15
+Link : https://www.codechef.com/AUG15
+Contests Participated : 18
+Contest List : ['OCT13', 'NOV13', 'DEC13', 'JAN14', 'COOK50', 'COOK56', 'LTIME22', 'JULY15', 'LTIME26', 'AUG15', 'COSE2015', 'COOK61', 'SEPT15', 'JAN16', 'COOK122A', 'LTIME88A', 'COOK123A', 'LTIME90A']
+----------------------------------------------------------------------------------------------------
