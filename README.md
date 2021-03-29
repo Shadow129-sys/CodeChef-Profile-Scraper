@@ -16,20 +16,21 @@ python install -r requirements.txt
 ## Understanding the code ☕
 I have not added too many comments as the variable names and function name itself is quite self explanatory, but if someone is still having problem to understand the code just try testing the code out
 
-## FAQ ❓
-- how to use this project?<br/>
+## Installation
 Clone the project and install the library that are required
 ```terminal
 git clone https://github.com/Shadow129-sys/CodeChef-Profile-Scraper.git
 cd CodeChef-Profile-Scraper
 pip install -r requirements.txt
 ```
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;run the main.py file
+write the usernames in `input.txt`
+run the main.py file
 ```terminal
 python -u main.py
 ```
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;take a look at the [Sample_InputOutput](https://github.com/Shadow129-sys/CodeChef-Profile-Scraper/tree/main/Sample_InputOutput) folder to get a better understanding about the input output format.
+take a look at the [Sample_InputOutput](https://github.com/Shadow129-sys/CodeChef-Profile-Scraper/tree/main/Sample_InputOutput) folder to get a better understanding about the input output format.
 
+## FAQ ❓
 - what is Beautiful Soup?<br/>
 It's a python library for pulling data out of HTML and XML files, more about Beautiful Soup [here](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
 
