@@ -3,7 +3,7 @@ import requests
 from pprint import pprint
 import time
   
-#To store color code for different stars
+#To store color code for different stars 
 coderDiv = ["Grey", "Green", "Blue", "Violet", "Yellow", "Orange", "Red"]
 
 #Searches for information in the user's profile page
