@@ -10,7 +10,7 @@ coderDiv = ["Grey", "Green", "Blue", "Violet", "Yellow", "Orange", "Red"]
 def FindProfile(username: str):
 
     #For storing the final search result
-    description = ""
+    description = "" 
 
     try:
         url = "https://www.codechef.com/users/" + username
