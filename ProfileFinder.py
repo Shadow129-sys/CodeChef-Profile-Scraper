@@ -23,7 +23,7 @@ def FindProfile(username: str):
         for details in moreinfo:
 
             infoTitle = details.label.text[:-1]
-            if infoTitle == "Teams List":
+            if infoTitle == "Teams List": 
                 break
 
             if infoTitle == "Username":
