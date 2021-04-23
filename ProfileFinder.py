@@ -25,7 +25,7 @@ def FindProfile(username: str):
             infoTitle = details.label.text[:-1]
             if infoTitle == "Teams List": 
                 break
-
+ 
             if infoTitle == "Username":
                 description += infoTitle + " : " + username + '\n'
                 continue
