@@ -1,7 +1,7 @@
 from bs4 import BeautifulSoup
 import requests
 from pprint import pprint
-import time 
+import time
 
 #To store color code for different stars 
 coderDiv = ["Grey", "Green", "Blue", "Violet", "Yellow", "Orange", "Red"]
