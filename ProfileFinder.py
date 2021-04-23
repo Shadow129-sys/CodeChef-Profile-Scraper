@@ -11,7 +11,7 @@ def FindProfile(username: str):
 
     #For storing the final search result
     description = "" 
-
+ 
     try:
         url = "https://www.codechef.com/users/" + username
         website_html = requests.get(url).text
